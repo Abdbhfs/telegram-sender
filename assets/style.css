@@ -1,0 +1,4 @@
+body { background: linear-gradient(180deg,#f8fafc,#eef2f6); }
+.card { border: none; }
+#result { max-height: 260px; overflow:auto; }
+.progress { height: 10px; }

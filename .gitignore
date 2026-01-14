@@ -1,0 +1,14 @@
+# PHP
+vendor/
+composer.lock
+.env
+*.log
+/.idea/
+/.vscode/
+node_modules/
+.DS_Store
+Thumbs.db
+
+# OS files
+ehthumbs.db
+Desktop.ini
